@@ -1,3 +1,4 @@
+![CMP](https://user-images.githubusercontent.com/87864756/156195197-0b4f8985-7c06-49e8-bac1-c43550ec3e44.png)
 # Design-of-a-CMOS-Low-Power-Dynamic-Comparator-
  This repository presents the design of low power dynamic comparator with CMOS technology using synopsys custom compiler.
 # Introduction
