@@ -26,6 +26,7 @@ using synopsys custom compiler.
 # Test Bench for simulation of comparator.
 ![tb](https://user-images.githubusercontent.com/87864756/156197774-be6e1497-1597-4f4e-b7f4-0b94c425f1c4.png)
 # Sine wave response of comparator.
+As clearly seen from the simulation results as the magnitude of sine wave increases beyond the reference voltage the outputs are differentiated to positivw and negative saturation voltages.
 ![sine](https://user-images.githubusercontent.com/87864756/156197986-8c0e5728-a4ab-4764-ad8f-2d2d55963147.png)
 # Square wave response of comparator.
 ![sqr](https://user-images.githubusercontent.com/87864756/156198156-06a8f421-d884-4046-9389-b831bb168094.png)
