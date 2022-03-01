@@ -31,6 +31,82 @@ using synopsys custom compiler.
 ![sqr](https://user-images.githubusercontent.com/87864756/156198156-06a8f421-d884-4046-9389-b831bb168094.png)
 # Waveform indicating delay in comparator.
 ![delay](https://user-images.githubusercontent.com/87864756/156200504-f7421ee6-def2-482a-9b2a-468b22cf1b54.png)
+# Netlist
+*  Generated for: PrimeSim
+*  Design library name: test
+*  Design cell name: cmp1_TB
+*  Design view name: schematic
+.lib 'saed32nm.lib' TT
+
+*Custom Compiler Version S-2021.09
+*Tue Mar  1 11:37:25 2022
+
+.global gnd!
+********************************************************************************
+* Library          : test
+* Cell             : cmp1
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+.subckt cmp1 vdd vin+ vin- vout+ vout- clka clkb gnd_1
+xm33 net5 clkb vdd vdd p105 w=0.8u l=0.03u nf=1 m=1
+xm9 net98 clka vdd vdd p105 w=0.6u l=0.03u nf=1 m=1
+xm8 net97 clka vdd vdd p105 w=0.6u l=0.03u nf=1 m=1
+xm1 vout- vout+ net5 net5 p105 w=0.8u l=0.03u nf=1 m=1
+xm0 vout+ vout- net5 net5 p105 w=0.8u l=0.03u nf=1 m=1
+xm32 net102 clka gnd_1 gnd_1 n105 w=0.6u l=0.03u nf=1 m=1
+xm7 net98 vin- net102 net102 n105 w=0.6u l=0.03u nf=1 m=1
+xm6 net97 vin+ net102 net102 n105 w=0.6u l=0.03u nf=1 m=1
+xm5 vout+ net98 gnd_1 gnd_1 n105 w=0.8u l=0.03u nf=1 m=1
+xm4 vout- net97 gnd_1 gnd_1 n105 w=0.8u l=0.03u nf=1 m=1
+xm3 vout- vout+ gnd_1 gnd_1 n105 w=0.3u l=0.03u nf=1 m=1
+xm2 vout+ vout- gnd_1 gnd_1 n105 w=0.3u l=0.03u nf=1 m=1
+.ends cmp1
+
+********************************************************************************
+* Library          : test
+* Cell             : cmp1_TB
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+xi0 net17 net11 net9 vout+ vout- net13 net15 gnd! cmp1
+v1 net9 gnd! dc=0 sin ( 1 20m 100 0 0 0 )
+v5 net17 gnd! dc=1.5
+v2 net11 gnd! dc=1
+v4 net15 gnd! dc=0 pulse ( 0 1.5 0 0.1n 0.1n 0.5u 1u )
+v3 net13 gnd! dc=0 pulse ( 1.5 0 0 0.1n 0.1n 0.5u 1u )
+
+
+
+
+
+
+
+
+.tran '0.001*(100m-0)' '100m' name=tran
+
+.option primesim_remove_probe_prefix = 0
+.probe v(*) i(*) level=1
+.probe tran v(vout+) v(vout-) v(net11) v(net13) v(net15) v(net9)
+
+.temp 25
+
+
+
+.option primesim_output=wdf
+
+
+.option parhier = LOCAL
+
+
+
+
+
+
+.end
+
 # Author
 Suyash Shrivastava, INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH, BHOPAL
 # Acknowledgements
