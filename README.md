@@ -34,9 +34,9 @@ using synopsys custom compiler.
 # Author
 Suyash Shrivastava, INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH, BHOPAL
 # Acknowledgements
-https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/
-https://www.synopsys.com/
-https://www.vlsisystemdesign.com/
+1. https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/
+2. https://www.synopsys.com/
+3. https://www.vlsisystemdesign.com/
 Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 Chinmay Panda, IIT Hyderabad
 IIT Hyderabad
