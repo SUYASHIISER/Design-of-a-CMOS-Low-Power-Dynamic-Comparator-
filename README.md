@@ -30,6 +30,7 @@ using synopsys custom compiler.
 # Square wave response of comparator.
 ![sqr](https://user-images.githubusercontent.com/87864756/156198156-06a8f421-d884-4046-9389-b831bb168094.png)
 # Waveform indicating delay in comparator.
+The primary factor that affects the propagation delay of a comparator is the output capacitance and stray capacitance. The resistive load at the output also affects the switching speed of a comparator. Optimizing these parameters allows a to select the best tradeoff between propagation delay and noise immunity.
 ![delay](https://user-images.githubusercontent.com/87864756/156200504-f7421ee6-def2-482a-9b2a-468b22cf1b54.png)
 # Stimulus:
 Vin+
