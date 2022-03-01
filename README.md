@@ -18,5 +18,19 @@ using synopsys custom compiler.
 ![CMP](https://user-images.githubusercontent.com/87864756/156195378-af4a9e39-d54d-4e12-a83c-11a10c66b6e8.png)
 # Reference waveform schematic.
 ![ScannerGo_18-2-2022-20 18 34 802-1](https://user-images.githubusercontent.com/87864756/156195920-9962d458-8ee1-41f8-8b98-a77836a34210.png)
+# Comparator Schematic in Synopsys custom compiler.
+
+![cmps](https://user-images.githubusercontent.com/87864756/156197377-2f1826b6-0943-4587-ac5d-ebf3bbfa1168.png)
+# Symbolic representation of comparator.
+![sym](https://user-images.githubusercontent.com/87864756/156197574-88c73640-b594-4db8-8a7f-a7c9386e9f29.png)
+# Test Bench for simulation of comparator.
+![tb](https://user-images.githubusercontent.com/87864756/156197774-be6e1497-1597-4f4e-b7f4-0b94c425f1c4.png)
+# Sine wave response of comparator.
+![sine](https://user-images.githubusercontent.com/87864756/156197986-8c0e5728-a4ab-4764-ad8f-2d2d55963147.png)
+# Square wave response of comparator.
+![sqr](https://user-images.githubusercontent.com/87864756/156198156-06a8f421-d884-4046-9389-b831bb168094.png)
+
+
+
 
 
