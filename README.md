@@ -37,12 +37,12 @@ Suyash Shrivastava, INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH, BHOPAL
 1. https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/
 2. https://www.synopsys.com/
 3. https://www.vlsisystemdesign.com/
-Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
-Chinmay Panda, IIT Hyderabad
-IIT Hyderabad
+4. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+5. Chinmay Panda, IIT Hyderabad
+6. IIT Hyderabad
 # References:
-[1]  D.  Shinkel,  E.  Mensink,  E.  Klumperink,  E.  van  Tuijl,  and  B.  Nauta,“A double-tail latch-type voltage sense amplifier with 18ps Setup+Holdtime,” in Proc. IEEE Int. Solid-State Circuits Conf., Dig. Tech. Papers,Feb. 2007, pp. 314–315[2]  S.  Babayan-Mashhadi  and  R.  Lotfi,  ”Analysis  and  Design  of  a  Low-Voltage Low-Power Double-Tail Comparator,” in IEEE Transactions onVery  Large  Scale  Integration  (VLSI)  Systems,  vol.  22,  no.  2,  pp.  343-352, Feb. 2014, doi: 10.1109/TVLSI.2013.2241799
-S.  Babayan-Mashhadi  and  R.  Lotfi,  ”Analysis  and  Design  of  a  Low-Voltage Low-Power Double-Tail Comparator,” in IEEE Transactions onVery  Large  Scale  Integration  (VLSI)  Systems,  vol.  22,  no.  2,  pp.  343-352, Feb. 2014, doi: 10.1109/TVLSI.2013.2241799.
+1.  D.  Shinkel,  E.  Mensink,  E.  Klumperink,  E.  van  Tuijl,  and  B.  Nauta,“A double-tail latch-type voltage sense amplifier with 18ps Setup+Holdtime,” in Proc. IEEE Int. Solid-State Circuits Conf., Dig. Tech. Papers,Feb. 2007, pp. 314–315[2]  
+2. S.  Babayan-Mashhadi  and  R.  Lotfi,  ”Analysis  and  Design  of  a  Low-Voltage Low-Power Double-Tail Comparator,” in IEEE Transactions onVery  Large  Scale  Integration  (VLSI)  Systems,  vol.  22,  no.  2,  pp.  343-352, Feb. 2014, doi: 10.1109/TVLSI.2013.2241799.
 
 
 
