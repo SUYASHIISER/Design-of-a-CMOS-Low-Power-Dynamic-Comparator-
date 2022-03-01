@@ -29,6 +29,21 @@ using synopsys custom compiler.
 ![sine](https://user-images.githubusercontent.com/87864756/156197986-8c0e5728-a4ab-4764-ad8f-2d2d55963147.png)
 # Square wave response of comparator.
 ![sqr](https://user-images.githubusercontent.com/87864756/156198156-06a8f421-d884-4046-9389-b831bb168094.png)
+# Waveform indicating delay in comparator.
+![delay](https://user-images.githubusercontent.com/87864756/156200504-f7421ee6-def2-482a-9b2a-468b22cf1b54.png)
+# Author
+Suyash Shrivastava, INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH, BHOPAL
+# Acknowledgements
+https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/
+https://www.synopsys.com/
+https://www.vlsisystemdesign.com/
+Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+Chinmay Panda, IIT Hyderabad
+IIT Hyderabad
+# References:
+[1]  D.  Shinkel,  E.  Mensink,  E.  Klumperink,  E.  van  Tuijl,  and  B.  Nauta,“A double-tail latch-type voltage sense amplifier with 18ps Setup+Holdtime,” in Proc. IEEE Int. Solid-State Circuits Conf., Dig. Tech. Papers,Feb. 2007, pp. 314–315[2]  S.  Babayan-Mashhadi  and  R.  Lotfi,  ”Analysis  and  Design  of  a  Low-Voltage Low-Power Double-Tail Comparator,” in IEEE Transactions onVery  Large  Scale  Integration  (VLSI)  Systems,  vol.  22,  no.  2,  pp.  343-352, Feb. 2014, doi: 10.1109/TVLSI.2013.2241799
+S.  Babayan-Mashhadi  and  R.  Lotfi,  ”Analysis  and  Design  of  a  Low-Voltage Low-Power Double-Tail Comparator,” in IEEE Transactions onVery  Large  Scale  Integration  (VLSI)  Systems,  vol.  22,  no.  2,  pp.  343-352, Feb. 2014, doi: 10.1109/TVLSI.2013.2241799.
+
 
 
 
