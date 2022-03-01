@@ -1,4 +1,3 @@
-![CMP](https://user-images.githubusercontent.com/87864756/156195197-0b4f8985-7c06-49e8-bac1-c43550ec3e44.png)
 # Design-of-a-CMOS-Low-Power-Dynamic-Comparator-
  This repository presents the design of low power dynamic comparator with CMOS technology using synopsys custom compiler.
 # Introduction
@@ -15,3 +14,5 @@ output paths Outp and Outn to discharge through transistors MR1 and MR2 to the g
 This two-stage technique has an advantage of resulting in low kick-back noise which is further useful
 for low-voltage applications. This conventional dynamic comparator is simulated on 28nm CMOS technology
 using synopsys custom compiler.
+![CMP](https://user-images.githubusercontent.com/87864756/156195378-af4a9e39-d54d-4e12-a83c-11a10c66b6e8.png)
+
