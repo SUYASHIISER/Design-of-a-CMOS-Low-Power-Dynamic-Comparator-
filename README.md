@@ -118,6 +118,8 @@ v3 net13 gnd! dc=0 pulse ( 1.5 0 0 0.1n 0.1n 0.5u 1u )
 
 
 .end
+# Conclusion
+In this repo we have simulated a daynamic comparator with 28nm CMOS technology with synopsys custom compiler. Simulation results indicate that comparator has successfully discriminated the input voltage levels and provided approximately rail to rail output. This one bit comparator finds potential applications in high-performance ADCs. Also this work can be further extended towards multi bit comparators.
 
 # Author
 Suyash Shrivastava, INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH, BHOPAL
