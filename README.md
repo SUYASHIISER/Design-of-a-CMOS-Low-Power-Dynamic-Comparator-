@@ -31,6 +31,16 @@ using synopsys custom compiler.
 ![sqr](https://user-images.githubusercontent.com/87864756/156198156-06a8f421-d884-4046-9389-b831bb168094.png)
 # Waveform indicating delay in comparator.
 ![delay](https://user-images.githubusercontent.com/87864756/156200504-f7421ee6-def2-482a-9b2a-468b22cf1b54.png)
+# Stimulus:
+Vin+
+![Vin+](https://user-images.githubusercontent.com/87864756/156216399-923a5e08-b38f-4b09-9b7e-42b116aeb5a6.png)
+Vin-![Vin-](https://user-images.githubusercontent.com/87864756/156216507-fedcf521-2f18-466a-af74-54b398dfe6af.png)
+clkA![clkA](https://user-images.githubusercontent.com/87864756/156216546-39cfd182-0bdb-4f35-94b9-62335b8f8c28.png)
+clkB![clkB](https://user-images.githubusercontent.com/87864756/156216562-36c1c9ed-ebb4-4a2a-8799-fc73358355fd.png)
+
+
+
+
 # Netlist
 *  Generated for: PrimeSim
 *  Design library name: test
