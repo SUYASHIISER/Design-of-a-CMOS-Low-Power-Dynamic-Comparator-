@@ -14,5 +14,9 @@ output paths Outp and Outn to discharge through transistors MR1 and MR2 to the g
 This two-stage technique has an advantage of resulting in low kick-back noise which is further useful
 for low-voltage applications. This conventional dynamic comparator is simulated on 28nm CMOS technology
 using synopsys custom compiler.
+# Reference circuit schematic.
 ![CMP](https://user-images.githubusercontent.com/87864756/156195378-af4a9e39-d54d-4e12-a83c-11a10c66b6e8.png)
+# Reference waveform schematic.
+![ScannerGo_18-2-2022-20 18 34 802-1](https://user-images.githubusercontent.com/87864756/156195920-9962d458-8ee1-41f8-8b98-a77836a34210.png)
+
 
